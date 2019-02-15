@@ -1,5 +1,5 @@
 # SketcherApp
-This is a Python 3 based project to perform fast &amp; accurate edge detection in form of a sketch with OpenCV on a webcams.
+This is a Python 3 based project to perform fast &amp; accurate edge detection in form of a sketch with OpenCV on a webcams. Following image is a screenshot example of me holding a pen in front of the webcam.
 
 <p align="center">
   <img src="snapshot.png" width="350" title="snapshot">
